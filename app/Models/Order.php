@@ -17,3 +17,4 @@ class Order extends Model
        'quantity'
      ];
 }
+
